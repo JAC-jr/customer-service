@@ -1,0 +1,11 @@
+com\example\ProductSE\entity\Category.class
+com\example\ProductSE\service\ProductServiceImpl.class
+com\example\ProductSE\ProductSeApplication.class
+com\example\ProductSE\controller\ProductController.class
+com\example\ProductSE\entity\Category$CategoryBuilder.class
+com\example\ProductSE\entity\Product$ProductBuilder.class
+com\example\ProductSE\entity\Product.class
+com\example\ProductSE\controller\ErrorMessage$ErrorMessageBuilder.class
+com\example\ProductSE\service\ProductService.class
+com\example\ProductSE\controller\ErrorMessage.class
+com\example\ProductSE\repository\ProductRepository.class
