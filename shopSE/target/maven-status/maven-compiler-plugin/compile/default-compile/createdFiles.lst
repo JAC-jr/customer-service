@@ -1,0 +1,16 @@
+com\example\shopSE\modelo\Customer.class
+com\example\shopSE\controller\ErrorMessage.class
+com\example\shopSE\client\CustomerClient.class
+com\example\shopSE\ShopSeApplication.class
+com\example\shopSE\entity\InvoiceItem.class
+com\example\shopSE\repository\InvoiceRepository.class
+com\example\shopSE\client\ProductClient.class
+com\example\shopSE\modelo\Category.class
+com\example\shopSE\modelo\Region.class
+com\example\shopSE\service\InvoiceServiceImpl.class
+com\example\shopSE\service\InvoiceService.class
+com\example\shopSE\entity\Invoice.class
+com\example\shopSE\controller\ErrorMessage$ErrorMessageBuilder.class
+com\example\shopSE\controller\InvoiceRest.class
+com\example\shopSE\modelo\Product.class
+com\example\shopSE\repository\InvoiceItemsRepository.class
