@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CustomerSE/CustomerSE.iml" filepath="$PROJECT_DIR$/CustomerSE/CustomerSE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProductSE/ProductSE.iml" filepath="$PROJECT_DIR$/ProductSE/ProductSE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/customer-service.iml" filepath="$PROJECT_DIR$/.idea/customer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopSE/shopSE.iml" filepath="$PROJECT_DIR$/shopSE/shopSE.iml" />
+    </modules>
+  </component>
+</project>
